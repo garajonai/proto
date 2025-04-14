@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@grpc/grpc-js": "^1.9.11",
-    "@redocly/cli": "^1.5.0",
+    "@redocly/cli": "^1.34.2",
     "grpc_tools_node_protoc_ts": "^5.3.3",
     "grpc-tools": "^1.12.4",
     "protoc-gen-ts": "^0.8.7"
